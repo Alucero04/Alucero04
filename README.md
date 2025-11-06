@@ -1,13 +1,13 @@
-# [TuUsuarioDeGitHub](https://github.com/Alucero04)
+# [Alejandro Lucero](https://github.com/Alucero04)
 
 ![Foto/Encabezado](https://github.com/TuUsuarioDeGitHub.png)
 Reemplaza el usuario, imagen y enlaces por los tuyos
 
 ## 👤 Sobre mí
-[Tu nombre completo] es [tu rol, p. ej., Científico/a Titular | Investigador/a Postdoctoral] en el CSIC, afiliado/a a [Instituto/Centro CSIC] dentro del [Grupo/Línea]. Su investigación se centra en [áreas o problemas clave], combinando [metodologías/tecnologías] para abordar [impacto/aplicación].
-- Afiliación: [Instituto/Departamento CSIC] · [Grupo] · [Ciudad, País]
-- Email: [tu.email@csic.es] · Calendly/Agenda: [enlace opcional]
-- CV: [PDF/Website] · Idiomas: [ES/EN/otros]
+[Alejandro Lucero] es [Investigador Predoctoral] en el CSIC, afiliado/a a [Instituto de Instrumentación para Imagen Molecular (I3M)]. Su investigación se centra en correcciones de image PET, combinando métodos de inteligencia artificial para abordar la mejora de la calidad de las imágenes médicas.
+- Afiliación: [Instituto de Instrumentación para Imagen Molecular (I3M)] · [Valencia, España]
+- Email: [alucrui@i3m.upv.es]
+- CV: (https://portfolioalr.wixsite.com/alucero04) · Idiomas: [ES/EN/FR]
 
 ## 🔗 Enlaces verificados
 - ORCID: [https://orcid.org/0000-0000-0000-0000]
